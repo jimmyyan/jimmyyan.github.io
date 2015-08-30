@@ -1,5 +1,4 @@
 ---
-date: 2014-11-01 22:40:30+00:00
 layout: post
 title: Go语言学习：new与make
 categories: 编程语言
